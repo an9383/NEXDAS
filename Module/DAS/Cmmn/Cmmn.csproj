@@ -1,0 +1,1186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cmmn</RootNamespace>
+    <AssemblyName>Cmmn</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics2.Shared.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.Misc.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinStatusBar.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Reporting, Version=7.2.13.1105, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.ReportViewer.WinForms, Version=7.2.13.1105, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ButtonBox_Conf.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonBox_Group.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonBox_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonData_Conf.cs" />
+    <Compile Include="ButtonData_Group.cs" />
+    <Compile Include="ButtonData_Main.cs" />
+    <Compile Include="Button_Arrow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Button_Conf.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Button_Group.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Button_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClassMenu.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="CommonModule.cs" />
+    <Compile Include="ContentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DA3300R.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBForm.Designer.cs">
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="FakeCaptionSummary.cs" />
+    <Compile Include="FnUtil.cs" />
+    <Compile Include="FormInfor.cs" />
+    <Compile Include="GridBase.cs" />
+    <Compile Include="GridColDataType_emu.cs" />
+    <Compile Include="ImageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IniFile.cs" />
+    <Compile Include="License.cs" />
+    <Compile Include="ListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogFile.cs" />
+    <Compile Include="LogType.cs" />
+    <Compile Include="MessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OKNGForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptRoutingSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetSystemTime.cs" />
+    <Compile Include="StartEndForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubData.cs" />
+    <Compile Include="UltraComboUtil.cs" />
+    <Compile Include="UltraGridUtil.cs" />
+    <Compile Include="UltraStyleUtil.cs" />
+    <Compile Include="WorkCenter.cs" />
+    <Compile Include="Worker.cs" />
+    <Compile Include="WorkerList.cs" />
+    <Compile Include="zDateControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="zDateUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="zGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="zLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="zLabelPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ZZ0000.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZZ0010.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZZ0020.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZZ0021.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZZ0030.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZZ0100.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BaseForm.resx">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Button_Main.resx">
+      <DependentUpon>Button_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentsForm.resx">
+      <DependentUpon>ContentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBForm.resx">
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageForm.resx">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="StringForm.resx">
+      <DependentUpon>StringForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberForm.resx">
+      <DependentUpon>NumberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OKNGForm.resx">
+      <DependentUpon>OKNGForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressForm.resx">
+      <DependentUpon>ProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartEndForm.resx">
+      <DependentUpon>StartEndForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zDateControl.resx">
+      <DependentUpon>zDateControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zDateUpdate.resx">
+      <DependentUpon>zDateUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zLabel.resx">
+      <DependentUpon>zLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZ0000.resx">
+      <DependentUpon>ZZ0000.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZ0010.resx">
+      <DependentUpon>ZZ0010.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZ0020.resx">
+      <DependentUpon>ZZ0020.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZ0021.resx">
+      <DependentUpon>ZZ0021.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZ0030.resx">
+      <DependentUpon>ZZ0030.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZ0100.resx">
+      <DependentUpon>ZZ0100.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll.licenses" />
+    <None Include="Resources\RD_KO_치공구변경_UP.jpg" />
+    <None Include="Resources\RD_KO_치공구변경_DN.jpg" />
+    <None Include="Resources\RD_KO_제조사양_UP.jpg" />
+    <None Include="Resources\RD_KO_제조사양_DN.jpg" />
+    <None Include="Resources\20200426175747.png" />
+    <None Include="Resources\BU_EN_제조사양_UP.jpg" />
+    <None Include="Resources\BL_KO_제조사양_DN.jpg" />
+    <None Include="Resources\BL_KO_제조사양_UP.jpg" />
+    <None Include="Resources\BL_CN_제조사양_UP.jpg" />
+    <None Include="Resources\BL_CN_제조사양_DN.jpg" />
+    <None Include="Resources\BU_CN_제조사양_DN.jpg" />
+    <None Include="Resources\BU_CN_제조사양_UP.jpg" />
+    <None Include="Resources\BL_EN_제조사양_DN.jpg" />
+    <None Include="Resources\BU_EN_제조사양_DN.jpg" />
+    <None Include="Resources\BL_EN_제조사양_UP.jpg" />
+    <None Include="Resources\BL_CN_금형변경_DN.jpg" />
+    <None Include="Resources\BL_CN_금형변경_UP.jpg" />
+    <None Include="Resources\BL_EN_금형변경_DN.jpg" />
+    <None Include="Resources\BL_EN_금형변경_UP.jpg" />
+    <None Include="Resources\BL_KO_금형변경_DN.jpg" />
+    <None Include="Resources\BL_KO_금형변경_UP.jpg" />
+    <None Include="Resources\BU_CN_금형변경_DN.jpg" />
+    <None Include="Resources\BU_CN_금형변경_UP.jpg" />
+    <None Include="Resources\BU_EN_금형변경_DN.jpg" />
+    <None Include="Resources\BU_EN_금형변경_UP.jpg" />
+    <None Include="Resources\BU_KO_금형변경_DN.jpg" />
+    <None Include="Resources\BU_KO_금형변경_UP.jpg" />
+    <None Include="Resources\BL_CN_노즐변경_DN.jpg" />
+    <None Include="Resources\BL_CN_노즐변경_UP.jpg" />
+    <None Include="Resources\BL_EN_노즐변경_DN.jpg" />
+    <None Include="Resources\BL_EN_노즐변경_UP.jpg" />
+    <None Include="Resources\BL_KO_노즐변경_DN.jpg" />
+    <None Include="Resources\BL_KO_노즐변경_UP.jpg" />
+    <None Include="Resources\BU_CN_노즐변경_DN.jpg" />
+    <None Include="Resources\BU_CN_노즐변경_UP.jpg" />
+    <None Include="Resources\BU_EN_노즐변경_DN.jpg" />
+    <None Include="Resources\BU_EN_노즐변경_UP.jpg" />
+    <None Include="Resources\BU_KO_노즐변경_DN.jpg" />
+    <None Include="Resources\BU_KO_노즐변경_UP.jpg" />
+    <None Include="Resources\BL_CN_세부공정_DN.jpg" />
+    <None Include="Resources\BL_CN_세부공정_UP.jpg" />
+    <None Include="Resources\BL_EN_세부공정_DN.jpg" />
+    <None Include="Resources\BL_EN_세부공정_UP.jpg" />
+    <None Include="Resources\BL_KO_세부공정_DN.jpg" />
+    <None Include="Resources\BL_KO_세부공정_UP.jpg" />
+    <None Include="Resources\BU_CN_세부공정_DN.jpg" />
+    <None Include="Resources\BU_CN_세부공정_UP.jpg" />
+    <None Include="Resources\BU_EN_세부공정_DN.jpg" />
+    <None Include="Resources\BU_EN_세부공정_UP.jpg" />
+    <None Include="Resources\BU_KO_세부공정_DN.jpg" />
+    <None Include="Resources\BU_KO_세부공정_UP.jpg" />
+    <None Include="Resources\BL_CN_치공구변경_DN.jpg" />
+    <None Include="Resources\BL_CN_치공구변경_UP.jpg" />
+    <None Include="Resources\BL_EN_치공구변경_DN.jpg" />
+    <None Include="Resources\BL_EN_치공구변경_UP.jpg" />
+    <None Include="Resources\BL_KO_치공구변경_DN.jpg" />
+    <None Include="Resources\BL_KO_치공구변경_UP.jpg" />
+    <None Include="Resources\BU_CN_치공구변경_DN.jpg" />
+    <None Include="Resources\BU_CN_치공구변경_UP.jpg" />
+    <None Include="Resources\BU_EN_치공구변경_DN.jpg" />
+    <None Include="Resources\BU_EN_치공구변경_UP.jpg" />
+    <None Include="Resources\BL_CN_검사_DN.jpg" />
+    <None Include="Resources\BL_CN_검사_UP.jpg" />
+    <Content Include="Resources\BL_CN_결감등록_DN.jpg" />
+    <Content Include="Resources\BL_CN_결감등록_UP.jpg" />
+    <None Include="Resources\BL_EN_검사_DN.jpg" />
+    <None Include="Resources\BL_EN_검사_UP.jpg" />
+    <None Include="Resources\BL_CN_실적등록_UP.jpg" />
+    <None Include="Resources\BL_CN_실적등록_DN.jpg" />
+    <Content Include="Resources\BL_EN_결감등록_DN.jpg" />
+    <Content Include="Resources\BL_EN_결감등록_UP.jpg" />
+    <None Include="Resources\BL_KO_검사_DN.jpg" />
+    <None Include="Resources\BL_KO_검사_UP.jpg" />
+    <None Include="Resources\BL_EN_실적등록_DN.jpg" />
+    <None Include="Resources\BL_EN_실적등록_UP.jpg" />
+    <Content Include="Resources\BL_KO_결감등록_DN.jpg" />
+    <Content Include="Resources\BL_KO_결감등록_UP.jpg" />
+    <None Include="Resources\BU_CN_검사_DN.jpg" />
+    <None Include="Resources\BU_CN_검사_UP.jpg" />
+    <Content Include="Resources\BU_CN_결감등록_DN.jpg" />
+    <Content Include="Resources\BU_CN_결감등록_UP.jpg" />
+    <None Include="Resources\BU_EN_검사_DN.jpg" />
+    <None Include="Resources\BU_EN_검사_UP.jpg" />
+    <None Include="Resources\BU_CN_실적등록_UP.jpg" />
+    <None Include="Resources\BU_CN_실적등록_DN.jpg" />
+    <Content Include="Resources\BU_EN_결감등록_DN.jpg" />
+    <Content Include="Resources\BU_EN_결감등록_UP.jpg" />
+    <None Include="Resources\BU_KO_검사_DN.jpg" />
+    <None Include="Resources\BU_KO_검사_UP.jpg" />
+    <None Include="Resources\BU_EN_실적등록_DN.jpg" />
+    <None Include="Resources\BU_EN_실적등록_UP.jpg" />
+    <Content Include="Resources\BU_KO_결감등록_DN.jpg" />
+    <Content Include="Resources\BU_KO_결감등록_UP.jpg" />
+    <Content Include="Resources\BU_KO_수동포장_DN.jpg" />
+    <None Include="Resources\BU_KO_제조사양_DN.jpg" />
+    <None Include="Resources\BU_KO_제조사양_UP.jpg" />
+    <None Include="Resources\RD_CN_금형변경_DN.jpg" />
+    <None Include="Resources\RD_CN_금형변경_UP.jpg" />
+    <None Include="Resources\RD_CN_노즐변경_DN.jpg" />
+    <None Include="Resources\RD_CN_노즐변경_UP.jpg" />
+    <None Include="Resources\RD_CN_세부공정_DN.jpg" />
+    <None Include="Resources\RD_CN_세부공정_UP.jpg" />
+    <None Include="Resources\BU_KO_치공구변경_DN.jpg" />
+    <None Include="Resources\BU_KO_치공구변경_UP.jpg" />
+    <None Include="Resources\RD_CN_검사_DN.jpg" />
+    <None Include="Resources\RD_CN_검사_UP.jpg" />
+    <None Include="Resources\BU_KO_설비정보1_UP.jpg" />
+    <Content Include="Resources\RD_CN_결감등록_DN.jpg" />
+    <Content Include="Resources\RD_CN_결감등록_UP.jpg" />
+    <Content Include="Resources\RD_CN_수동포장_DN.jpg" />
+    <Content Include="Resources\RD_CN_수동포장_UP.jpg" />
+    <None Include="Resources\RD_CN_제조사양_DN.jpg" />
+    <None Include="Resources\RD_CN_제조사양_UP.jpg" />
+    <None Include="Resources\RD_EN_금형변경_DN.jpg" />
+    <None Include="Resources\RD_EN_금형변경_UP.jpg" />
+    <None Include="Resources\RD_EN_노즐변경_DN.jpg" />
+    <None Include="Resources\RD_EN_노즐변경_UP.jpg" />
+    <None Include="Resources\RD_EN_세부공정_DN.jpg" />
+    <None Include="Resources\RD_EN_세부공정_UP.jpg" />
+    <None Include="Resources\RD_CN_치공구변경_DN.jpg" />
+    <None Include="Resources\RD_CN_치공구변경_UP.jpg" />
+    <None Include="Resources\RD_EN_검사_DN.jpg" />
+    <None Include="Resources\RD_EN_검사_UP.jpg" />
+    <None Include="Resources\RD_CN_실적등록_UP.jpg" />
+    <None Include="Resources\RD_CN_실적등록_DN.jpg" />
+    <Content Include="Resources\RD_EN_결감등록_DN.jpg" />
+    <Content Include="Resources\RD_EN_결감등록_UP.jpg" />
+    <Content Include="Resources\RD_EN_수동포장_DN.jpg" />
+    <Content Include="Resources\RD_EN_수동포장_UP.jpg" />
+    <None Include="Resources\RD_EN_제조사양_DN.jpg" />
+    <None Include="Resources\RD_EN_제조사양_UP.jpg" />
+    <None Include="Resources\RD_KO_금형변경_DN.jpg" />
+    <None Include="Resources\RD_KO_금형변경_UP.jpg" />
+    <None Include="Resources\RD_KO_노즐변경_DN.jpg" />
+    <None Include="Resources\RD_KO_노즐변경_UP.jpg" />
+    <None Include="Resources\RD_KO_세부공정_DN.jpg" />
+    <None Include="Resources\RD_KO_세부공정_UP.jpg" />
+    <None Include="Resources\RD_EN_치공구변경_DN.jpg" />
+    <None Include="Resources\RD_EN_치공구변경_UP.jpg" />
+    <None Include="Resources\RD_KO_검사_DN.jpg" />
+    <None Include="Resources\RD_KO_검사_UP.jpg" />
+    <None Include="Resources\RD_EN_실적등록_DN.jpg" />
+    <None Include="Resources\RD_EN_실적등록_UP.jpg" />
+    <Content Include="Resources\RD_KO_결감등록_DN.jpg" />
+    <Content Include="Resources\RD_KO_결감등록_UP.jpg" />
+    <Content Include="Resources\RD_KO_수동포장_DN.jpg" />
+    <Content Include="Resources\RD_KO_수동포장_UP.jpg" />
+    <None Include="Sound\sound_button_wrong.wav" />
+    <None Include="Sound\mms_bell_01.wav" />
+    <None Include="Resources\RD_KO_부적합등록_UP.jpg" />
+    <None Include="Resources\RD_KO_부적합등록_DN.jpg" />
+    <None Include="Resources\RD_EN_부적합등록_UP.jpg" />
+    <None Include="Resources\RD_EN_부적합등록_DN.jpg" />
+    <None Include="Resources\RD_CN_부적합등록_UP.jpg" />
+    <None Include="Resources\RD_CN_부적합등록_DN.jpg" />
+    <None Include="Resources\BaseForm_Company.png" />
+    <None Include="Resources\BL_CN_부적합등록_DN.jpg" />
+    <None Include="Resources\BL_CN_부적합등록_UP.jpg" />
+    <None Include="Resources\BL_EN_부적합등록_DN.jpg" />
+    <None Include="Resources\BL_EN_부적합등록_UP.jpg" />
+    <None Include="Resources\BL_KO_부적합등록_DN.jpg" />
+    <None Include="Resources\BL_KO_부적합등록_UP.jpg" />
+    <None Include="Resources\BU_CN_부적합등록_DN.jpg" />
+    <None Include="Resources\BU_CN_부적합등록_UP.jpg" />
+    <None Include="Resources\BU_EN_부적합등록_DN.jpg" />
+    <None Include="Resources\BU_EN_부적합등록_UP.jpg" />
+    <None Include="Resources\BU_KO_부적합등록_DN.jpg" />
+    <None Include="Resources\BU_KO_부적합등록_UP.jpg" />
+    <Content Include="Resources\BL_CN_수동포장_DN.jpg" />
+    <Content Include="Resources\BL_CN_수동포장_UP.jpg" />
+    <Content Include="Resources\BL_EN_수동포장_DN.jpg" />
+    <Content Include="Resources\BL_EN_수동포장_UP.jpg" />
+    <Content Include="Resources\BL_KO_수동포장_DN.jpg" />
+    <Content Include="Resources\BL_KO_수동포장_UP.jpg" />
+    <Content Include="Resources\BU_CN_수동포장_DN.jpg" />
+    <Content Include="Resources\BU_CN_수동포장_UP.jpg" />
+    <Content Include="Resources\BU_EN_수동포장_DN.jpg" />
+    <Content Include="Resources\BU_EN_수동포장_UP.jpg" />
+    <Content Include="Resources\BU_KO_수동포장_UP.jpg" />
+    <Content Include="Resources\COMPANYLOGO.png" />
+    <None Include="Resources\ZZ0100_001.gif" />
+    <None Include="Resources\ZZ0000_005.gif" />
+    <None Include="Resources\StartEndForm_008.png" />
+    <None Include="Resources\StartEndForm_007.png" />
+    <None Include="Resources\StartEndForm_006.png" />
+    <None Include="Resources\StartEndForm_005.png" />
+    <None Include="Resources\StartEndForm_004.png" />
+    <None Include="Resources\StartEndForm_003.png" />
+    <None Include="Resources\StartEndForm_002.png" />
+    <None Include="Resources\StartEndForm_001.png" />
+    <None Include="Resources\StartEndForm_000.png" />
+    <None Include="Resources\RD_ZZ0100_000.jpg" />
+    <None Include="Resources\RD_ZZ0030_001.png" />
+    <None Include="Resources\RD_ZZ0030_000.png" />
+    <None Include="Resources\RD_ZZ0021_002.png" />
+    <None Include="Resources\RD_ZZ0021_001.png" />
+    <None Include="Resources\RD_ZZ0021_000.png" />
+    <None Include="Resources\RD_ZZ0020_002.png" />
+    <None Include="Resources\RD_ZZ0020_001.png" />
+    <None Include="Resources\RD_ZZ0020_000.png" />
+    <None Include="Resources\RD_ZZ0010_002.png" />
+    <None Include="Resources\RD_ZZ0010_001.png" />
+    <None Include="Resources\RD_ZZ0010_000.png" />
+    <None Include="Resources\RD_ZZ0000_004.png" />
+    <None Include="Resources\RD_ZZ0000_003.png" />
+    <None Include="Resources\RD_ZZ0000_002.png" />
+    <None Include="Resources\RD_ZZ0000_001.png" />
+    <None Include="Resources\RD_ZZ0000_000.jpg" />
+    <None Include="Resources\RD_zDateUpdateUP_UP.jpg" />
+    <None Include="Resources\RD_zDateUpdateUP_DN.jpg" />
+    <None Include="Resources\RD_zDateUpdateDN_UP.jpg" />
+    <None Include="Resources\RD_zDateUpdateDN_DN.jpg" />
+    <None Include="Resources\RD_zDateControlUP_UP.jpg" />
+    <None Include="Resources\RD_zDateControlUP_DN.jpg" />
+    <None Include="Resources\RD_zDateControlDN_UP.jpg" />
+    <None Include="Resources\RD_zDateControlDN_DN.jpg" />
+    <None Include="Resources\RD_Up_UP.png" />
+    <None Include="Resources\RD_Up_DN.png" />
+    <None Include="Resources\RD_Right_UP.png" />
+    <None Include="Resources\RD_Right_DN.png" />
+    <None Include="Resources\RD_NumberForm_016.png" />
+    <None Include="Resources\RD_NumberForm_015.png" />
+    <None Include="Resources\RD_NumberForm_012.png" />
+    <None Include="Resources\RD_NumberForm_011.png" />
+    <None Include="Resources\RD_NumberForm_010.png" />
+    <None Include="Resources\RD_NumberForm_009.png" />
+    <None Include="Resources\RD_NumberForm_008.png" />
+    <None Include="Resources\RD_NumberForm_007.png" />
+    <None Include="Resources\RD_NumberForm_006.png" />
+    <None Include="Resources\RD_NumberForm_005.png" />
+    <None Include="Resources\RD_NumberForm_004.png" />
+    <None Include="Resources\RD_NumberForm_003.png" />
+    <None Include="Resources\RD_NumberForm_002.png" />
+    <None Include="Resources\RD_NumberForm_001.png" />
+    <None Include="Resources\RD_NumberForm_000.png" />
+    <None Include="Resources\RD_MessageForm_000.jpg" />
+    <None Include="Resources\RD_Left_UP.png" />
+    <None Include="Resources\RD_Left_DN.png" />
+    <None Include="Resources\RD_KO_지시선택F_UP.jpg" />
+    <None Include="Resources\RD_KO_지시선택F_DN.jpg" />
+    <None Include="Resources\RD_KO_지시선택_UP.jpg" />
+    <None Include="Resources\RD_KO_지시선택_DN.jpg" />
+    <None Include="Resources\RD_KO_종료F_UP.jpg" />
+    <None Include="Resources\RD_KO_종료F_DN.jpg" />
+    <None Include="Resources\RD_KO_작업장선택F_UP.jpg" />
+    <None Include="Resources\RD_KO_작업장선택F_DN.jpg" />
+    <None Include="Resources\RD_KO_작업장선택_UP.jpg" />
+    <None Include="Resources\RD_KO_작업장선택_DN.jpg" />
+    <None Include="Resources\RD_KO_작업자선택F_UP.jpg" />
+    <None Include="Resources\RD_KO_작업자선택F_DN.jpg" />
+    <None Include="Resources\RD_KO_작업자선택_UP.jpg" />
+    <None Include="Resources\RD_KO_작업자선택_DN.jpg" />
+    <None Include="Resources\RD_KO_자주검사_UP.jpg" />
+    <None Include="Resources\RD_KO_자주검사_DN.jpg" />
+    <None Include="Resources\RD_KO_자재투입_UP.jpg" />
+    <None Include="Resources\RD_KO_자재투입_DN.jpg" />
+    <None Include="Resources\RD_KO_자재정보_UP.jpg" />
+    <None Include="Resources\RD_KO_자재정보_DN.jpg" />
+    <None Include="Resources\RD_KO_자재반납_UP.jpg" />
+    <None Include="Resources\RD_KO_자재반납_DN.jpg" />
+    <None Include="Resources\RD_KO_육안검사_UP.jpg" />
+    <None Include="Resources\RD_KO_육안검사_DN.jpg" />
+    <None Include="Resources\RD_KO_실적등록_UP.jpg" />
+    <None Include="Resources\RD_KO_실적등록_DN.jpg" />
+    <None Include="Resources\RD_KO_설비점검_UP.jpg" />
+    <None Include="Resources\RD_KO_설비점검_DN.jpg" />
+    <None Include="Resources\RD_KO_설비보전_UP.jpg" />
+    <None Include="Resources\RD_KO_설비보전_DS.jpg" />
+    <None Include="Resources\RD_KO_설비보전_DN.jpg" />
+    <None Include="Resources\RD_KO_설비보전_AL.jpg" />
+    <None Include="Resources\RD_KO_생산차트_UP.jpg" />
+    <None Include="Resources\RD_KO_생산차트_DN.jpg" />
+    <None Include="Resources\RD_KO_생산정지_UP.jpg" />
+    <None Include="Resources\RD_KO_생산정지_DN.jpg" />
+    <None Include="Resources\RD_KO_생산정보_UP.jpg" />
+    <None Include="Resources\RD_KO_생산정보_DN.jpg" />
+    <None Include="Resources\RD_KO_생산이력_UP.jpg" />
+    <None Include="Resources\RD_KO_생산이력_DN.jpg" />
+    <None Include="Resources\RD_KO_생산시작_UP.jpg" />
+    <None Include="Resources\RD_KO_생산시작_DN.jpg" />
+    <None Include="Resources\RD_KO_불량이력_UP.jpg" />
+    <None Include="Resources\RD_KO_불량이력_DN.jpg" />
+    <None Include="Resources\RD_KO_불량등록_UP.jpg" />
+    <None Include="Resources\RD_KO_불량등록_DN.jpg" />
+    <None Include="Resources\RD_KO_공지사항_UP.jpg" />
+    <None Include="Resources\RD_KO_공지사항_DN.jpg" />
+    <None Include="Resources\RD_KO_공정검사_UP.jpg" />
+    <None Include="Resources\RD_KO_공정검사_DN.jpg" />
+    <None Include="Resources\RD_KO_가동이력_UP.jpg" />
+    <None Include="Resources\RD_KO_가동이력_DN.jpg" />
+    <None Include="Resources\RD_KO_LOT발행_UP.jpg" />
+    <None Include="Resources\RD_KO_LOT발행_DN.jpg" />
+    <None Include="Resources\RD_EN_지시선택F_UP.jpg" />
+    <None Include="Resources\RD_EN_지시선택F_DN.jpg" />
+    <None Include="Resources\RD_EN_지시선택_UP.jpg" />
+    <None Include="Resources\RD_EN_지시선택_DN.jpg" />
+    <None Include="Resources\RD_EN_종료F_UP.jpg" />
+    <None Include="Resources\RD_EN_종료F_DN.jpg" />
+    <None Include="Resources\RD_EN_작업장선택F_UP.jpg" />
+    <None Include="Resources\RD_EN_작업장선택F_DN.jpg" />
+    <None Include="Resources\RD_EN_작업장선택_UP.jpg" />
+    <None Include="Resources\RD_EN_작업장선택_DN.jpg" />
+    <None Include="Resources\RD_EN_작업자선택F_UP.jpg" />
+    <None Include="Resources\RD_EN_작업자선택F_DN.jpg" />
+    <None Include="Resources\RD_EN_작업자선택_UP.jpg" />
+    <None Include="Resources\RD_EN_작업자선택_DN.jpg" />
+    <None Include="Resources\RD_EN_자주검사_UP.jpg" />
+    <None Include="Resources\RD_EN_자주검사_DN.jpg" />
+    <None Include="Resources\RD_EN_자재투입_UP.jpg" />
+    <None Include="Resources\RD_EN_자재투입_DN.jpg" />
+    <None Include="Resources\RD_EN_자재정보_UP.jpg" />
+    <None Include="Resources\RD_EN_자재정보_DN.jpg" />
+    <None Include="Resources\RD_EN_자재반납_UP.jpg" />
+    <None Include="Resources\RD_EN_자재반납_DN.jpg" />
+    <None Include="Resources\RD_EN_설비점검_UP.jpg" />
+    <None Include="Resources\RD_EN_설비점검_DN.jpg" />
+    <None Include="Resources\RD_EN_설비보전_UP.jpg" />
+    <None Include="Resources\RD_EN_설비보전_DS.jpg" />
+    <None Include="Resources\RD_EN_설비보전_DN.jpg" />
+    <None Include="Resources\RD_EN_설비보전_AL.jpg" />
+    <None Include="Resources\RD_EN_생산정지_UP.jpg" />
+    <None Include="Resources\RD_EN_생산정지_DN.jpg" />
+    <None Include="Resources\RD_EN_생산정보_UP.jpg" />
+    <None Include="Resources\RD_EN_생산정보_DN.jpg" />
+    <None Include="Resources\RD_EN_생산이력_UP.jpg" />
+    <None Include="Resources\RD_EN_생산이력_DN.jpg" />
+    <None Include="Resources\RD_EN_생산시작_UP.jpg" />
+    <None Include="Resources\RD_EN_생산시작_DN.jpg" />
+    <None Include="Resources\RD_EN_불량이력_UP.jpg" />
+    <None Include="Resources\RD_EN_불량이력_DN.jpg" />
+    <None Include="Resources\RD_EN_불량등록_UP.jpg" />
+    <None Include="Resources\RD_EN_불량등록_DN.jpg" />
+    <None Include="Resources\RD_EN_가동이력_UP.jpg" />
+    <None Include="Resources\RD_EN_가동이력_DN.jpg" />
+    <None Include="Resources\RD_EN_LOT발행_UP.jpg" />
+    <None Include="Resources\RD_EN_LOT발행_DN.jpg" />
+    <None Include="Resources\RD_DX0630_001.png" />
+    <None Include="Resources\RD_DX0000_005.png" />
+    <None Include="Resources\RD_DX0000_004.png" />
+    <None Include="Resources\RD_DS.jpg" />
+    <None Include="Resources\RD_Down_UP.png" />
+    <None Include="Resources\RD_Down_DN.png" />
+    <None Include="Resources\RD_CN_지시선택F_UP.jpg" />
+    <None Include="Resources\RD_CN_지시선택F_DN.jpg" />
+    <None Include="Resources\RD_CN_지시선택_UP.jpg" />
+    <None Include="Resources\RD_CN_지시선택_DN.jpg" />
+    <None Include="Resources\RD_CN_종료F_UP.jpg" />
+    <None Include="Resources\RD_CN_종료F_DN.jpg" />
+    <None Include="Resources\RD_CN_작업장선택F_UP.jpg" />
+    <None Include="Resources\RD_CN_작업장선택F_DN.jpg" />
+    <None Include="Resources\RD_CN_작업장선택_UP.jpg" />
+    <None Include="Resources\RD_CN_작업장선택_DN.jpg" />
+    <None Include="Resources\RD_CN_작업자선택F_UP.jpg" />
+    <None Include="Resources\RD_CN_작업자선택F_DN.jpg" />
+    <None Include="Resources\RD_CN_작업자선택_UP.jpg" />
+    <None Include="Resources\RD_CN_작업자선택_DN.jpg" />
+    <None Include="Resources\RD_CN_자주검사_UP.jpg" />
+    <None Include="Resources\RD_CN_자주검사_DN.jpg" />
+    <None Include="Resources\RD_CN_자재투입_UP.jpg" />
+    <None Include="Resources\RD_CN_자재투입_DN.jpg" />
+    <None Include="Resources\RD_CN_자재정보_UP.jpg" />
+    <None Include="Resources\RD_CN_자재정보_DN.jpg" />
+    <None Include="Resources\RD_CN_자재반납_UP.jpg" />
+    <None Include="Resources\RD_CN_자재반납_DN.jpg" />
+    <None Include="Resources\RD_CN_설비점검_UP.jpg" />
+    <None Include="Resources\RD_CN_설비점검_DN.jpg" />
+    <None Include="Resources\RD_CN_설비보전_UP.jpg" />
+    <None Include="Resources\RD_CN_설비보전_DS.jpg" />
+    <None Include="Resources\RD_CN_설비보전_DN.jpg" />
+    <None Include="Resources\RD_CN_설비보전_AL.jpg" />
+    <None Include="Resources\RD_CN_생산정지_UP.jpg" />
+    <None Include="Resources\RD_CN_생산정지_DN.jpg" />
+    <None Include="Resources\RD_CN_생산정보_UP.jpg" />
+    <None Include="Resources\RD_CN_생산정보_DN.jpg" />
+    <None Include="Resources\RD_CN_생산이력_UP.jpg" />
+    <None Include="Resources\RD_CN_생산이력_DN.jpg" />
+    <None Include="Resources\RD_CN_생산시작_UP.jpg" />
+    <None Include="Resources\RD_CN_생산시작_DN.jpg" />
+    <None Include="Resources\RD_CN_불량이력_UP.jpg" />
+    <None Include="Resources\RD_CN_불량이력_DN.jpg" />
+    <None Include="Resources\RD_CN_불량등록_UP.jpg" />
+    <None Include="Resources\RD_CN_불량등록_DN.jpg" />
+    <None Include="Resources\RD_CN_가동이력_UP.jpg" />
+    <None Include="Resources\RD_CN_가동이력_DN.jpg" />
+    <None Include="Resources\RD_CN_LOT발행_UP.jpg" />
+    <None Include="Resources\RD_CN_LOT발행_DN.jpg" />
+    <None Include="Resources\RD_Button_Main_UP.png" />
+    <None Include="Resources\RD_Button_Main_DS.png" />
+    <None Include="Resources\RD_Button_Main_DN.png" />
+    <None Include="Resources\RD_Button_Group_UP.png" />
+    <None Include="Resources\RD_Button_Group_DS.png" />
+    <None Include="Resources\RD_Button_Group_DN.png" />
+    <None Include="Resources\RD_Button_Conf_UP.png" />
+    <None Include="Resources\RD_Button_Conf_DS.png" />
+    <None Include="Resources\RD_Button_Conf_DN.png" />
+    <None Include="Resources\RD_BaseForm_011.png" />
+    <None Include="Resources\RD_BaseForm_010.png" />
+    <None Include="Resources\RD_BaseForm_009.png" />
+    <None Include="Resources\RD_BaseForm_008.png" />
+    <None Include="Resources\RD_BaseForm_007.png" />
+    <None Include="Resources\RD_BaseForm_006.png" />
+    <None Include="Resources\RD_BaseForm_005.png" />
+    <None Include="Resources\RD_BaseForm_004.png" />
+    <None Include="Resources\RD_BaseForm_003.png" />
+    <None Include="Resources\RD_BaseForm_002.png" />
+    <None Include="Resources\RD_BaseForm_001.jpg" />
+    <None Include="Resources\ProgressForm_000.gif" />
+    <None Include="Resources\OKNGForm_002.png" />
+    <None Include="Resources\OKNGForm_001.png" />
+    <None Include="Resources\OKNGForm_000.png" />
+    <None Include="Resources\NumberForm_014.png" />
+    <None Include="Resources\NumberForm_013.png" />
+    <None Include="Resources\NoImage.png" />
+    <None Include="Resources\ListForm_003.png" />
+    <None Include="Resources\ListForm_002.png" />
+    <None Include="Resources\ListForm_001.png" />
+    <None Include="Resources\ListForm_000.png" />
+    <None Include="Resources\KO_BaseForm_015.jpg" />
+    <None Include="Resources\KO_BaseForm_014.jpg" />
+    <None Include="Resources\ImageForm_005.png" />
+    <None Include="Resources\ImageForm_004.png" />
+    <None Include="Resources\ImageForm_003.png" />
+    <None Include="Resources\ImageForm_002.png" />
+    <None Include="Resources\ImageForm_001.png" />
+    <None Include="Resources\ImageForm_000.png" />
+    <None Include="Resources\EN_BaseForm_015.jpg" />
+    <None Include="Resources\EN_BaseForm_014.jpg" />
+    <None Include="Resources\DX9040_000.png" />
+    <None Include="Resources\DX0910_005.png" />
+    <None Include="Resources\DX0910_004.png" />
+    <None Include="Resources\DX0910_003.png" />
+    <None Include="Resources\DX0910_002.png" />
+    <None Include="Resources\DX0910_001.png" />
+    <None Include="Resources\DX0900_000.png" />
+    <None Include="Resources\DX0810_005.png" />
+    <None Include="Resources\DX0810_004.png" />
+    <None Include="Resources\DX0810_003.png" />
+    <None Include="Resources\DX0810_002.png" />
+    <None Include="Resources\DX0810_001.png" />
+    <None Include="Resources\DX0800_000.png" />
+    <None Include="Resources\DX0640_000.png" />
+    <None Include="Resources\DX0630_003.png" />
+    <None Include="Resources\DX0630_002.png" />
+    <None Include="Resources\DX0630_000.png" />
+    <None Include="Resources\DX0430_000.png" />
+    <None Include="Resources\DX0400_002.png" />
+    <None Include="Resources\DX0400_001.png" />
+    <None Include="Resources\DX0400_000.png" />
+    <None Include="Resources\DX0321_000.png" />
+    <None Include="Resources\DX0320_000.png" />
+    <None Include="Resources\DX0000_007.png" />
+    <None Include="Resources\DX0000_006.png" />
+    <None Include="Resources\DX0000_003.gif" />
+    <None Include="Resources\DX0000_002.png" />
+    <None Include="Resources\DX0000_001.png" />
+    <None Include="Resources\DX0000_000.png" />
+    <None Include="Resources\ContentsForm_004.png" />
+    <None Include="Resources\ContentsForm_003.png" />
+    <None Include="Resources\ContentsForm_002.png" />
+    <None Include="Resources\ContentsForm_001.png" />
+    <None Include="Resources\CN_BaseForm_015.jpg" />
+    <None Include="Resources\CN_BaseForm_014.jpg" />
+    <None Include="Resources\BU_ZZ0100_000.jpg" />
+    <None Include="Resources\BU_ZZ0030_001.png" />
+    <None Include="Resources\BU_ZZ0030_000.png" />
+    <None Include="Resources\BU_ZZ0021_002.png" />
+    <None Include="Resources\BU_ZZ0021_001.png" />
+    <None Include="Resources\BU_ZZ0021_000.png" />
+    <None Include="Resources\BU_ZZ0020_002.png" />
+    <None Include="Resources\BU_ZZ0020_001.png" />
+    <None Include="Resources\BU_ZZ0020_000.png" />
+    <None Include="Resources\BU_ZZ0010_002.png" />
+    <None Include="Resources\BU_ZZ0010_001.png" />
+    <None Include="Resources\BU_ZZ0010_000.png" />
+    <None Include="Resources\BU_ZZ0000_004.png" />
+    <None Include="Resources\BU_ZZ0000_003.png" />
+    <None Include="Resources\BU_ZZ0000_002.png" />
+    <None Include="Resources\BU_ZZ0000_001.png" />
+    <None Include="Resources\BU_ZZ0000_000.jpg" />
+    <None Include="Resources\BU_zDateUpdateUP_UP.jpg" />
+    <None Include="Resources\BU_zDateUpdateUP_DN.jpg" />
+    <None Include="Resources\BU_zDateUpdateDN_UP.jpg" />
+    <None Include="Resources\BU_zDateUpdateDN_DN.jpg" />
+    <None Include="Resources\BU_zDateControlUP_UP.jpg" />
+    <None Include="Resources\BU_zDateControlUP_DN.jpg" />
+    <None Include="Resources\BU_zDateControlDN_UP.jpg" />
+    <None Include="Resources\BU_zDateControlDN_DN.jpg" />
+    <None Include="Resources\BU_Up_UP.png" />
+    <None Include="Resources\BU_Up_DN.png" />
+    <None Include="Resources\BU_Right_UP.png" />
+    <None Include="Resources\BU_Right_DN.png" />
+    <None Include="Resources\BU_NumberForm_016.png" />
+    <None Include="Resources\BU_NumberForm_015.png" />
+    <None Include="Resources\BU_NumberForm_012.png" />
+    <None Include="Resources\BU_NumberForm_011.png" />
+    <None Include="Resources\BU_NumberForm_010.png" />
+    <None Include="Resources\BU_NumberForm_009.png" />
+    <None Include="Resources\BU_NumberForm_008.png" />
+    <None Include="Resources\BU_NumberForm_007.png" />
+    <None Include="Resources\BU_NumberForm_006.png" />
+    <None Include="Resources\BU_NumberForm_005.png" />
+    <None Include="Resources\BU_NumberForm_004.png" />
+    <None Include="Resources\BU_NumberForm_003.png" />
+    <None Include="Resources\BU_NumberForm_002.png" />
+    <None Include="Resources\BU_NumberForm_001.png" />
+    <None Include="Resources\BU_NumberForm_000.png" />
+    <None Include="Resources\BU_MessageForm_000.jpg" />
+    <None Include="Resources\BU_Left_UP.png" />
+    <None Include="Resources\BU_Left_DN.png" />
+    <None Include="Resources\BU_KO_지시선택F_UP.jpg" />
+    <None Include="Resources\BU_KO_지시선택F_DN.jpg" />
+    <None Include="Resources\BU_KO_지시선택_UP.jpg" />
+    <None Include="Resources\BU_KO_지시선택_DN.jpg" />
+    <None Include="Resources\BU_KO_종료F_UP.jpg" />
+    <None Include="Resources\BU_KO_종료F_DN.jpg" />
+    <None Include="Resources\BU_KO_작업장선택F_UP.jpg" />
+    <None Include="Resources\BU_KO_작업장선택F_DN.jpg" />
+    <None Include="Resources\BU_KO_작업장선택_UP.jpg" />
+    <None Include="Resources\BU_KO_작업장선택_DN.jpg" />
+    <None Include="Resources\BU_KO_작업자선택F_UP.jpg" />
+    <None Include="Resources\BU_KO_작업자선택F_DN.jpg" />
+    <None Include="Resources\BU_KO_작업자선택_UP.jpg" />
+    <None Include="Resources\BU_KO_작업자선택_DN.jpg" />
+    <None Include="Resources\BU_KO_자주검사_UP.jpg" />
+    <None Include="Resources\BU_KO_자주검사_DN.jpg" />
+    <None Include="Resources\BU_KO_자재투입_UP.jpg" />
+    <None Include="Resources\BU_KO_자재투입_DN.jpg" />
+    <None Include="Resources\BU_KO_자재정보_UP.jpg" />
+    <None Include="Resources\BU_KO_자재정보_DN.jpg" />
+    <None Include="Resources\BU_KO_자재반납_UP.jpg" />
+    <None Include="Resources\BU_KO_자재반납_DN.jpg" />
+    <None Include="Resources\BU_KO_육안검사_UP.jpg" />
+    <None Include="Resources\BU_KO_육안검사_DN.jpg" />
+    <None Include="Resources\BU_KO_실적등록_UP.jpg" />
+    <None Include="Resources\BU_KO_실적등록_DN.jpg" />
+    <None Include="Resources\BU_KO_설비점검_UP.jpg" />
+    <None Include="Resources\BU_KO_설비점검_DN.jpg" />
+    <None Include="Resources\BU_KO_설비보전_UP.jpg" />
+    <None Include="Resources\BU_KO_설비보전_DS.jpg" />
+    <None Include="Resources\BU_KO_설비보전_DN.jpg" />
+    <None Include="Resources\BU_KO_설비보전_AL.jpg" />
+    <None Include="Resources\BU_KO_생산차트_UP.jpg" />
+    <None Include="Resources\BU_KO_생산차트_DN.jpg" />
+    <None Include="Resources\BU_KO_생산정지_UP.jpg" />
+    <None Include="Resources\BU_KO_생산정지_DN.jpg" />
+    <None Include="Resources\BU_KO_생산정보_UP.jpg" />
+    <None Include="Resources\BU_KO_생산정보_DN.jpg" />
+    <None Include="Resources\BU_KO_생산이력_UP.jpg" />
+    <None Include="Resources\BU_KO_생산이력_DN.jpg" />
+    <None Include="Resources\BU_KO_생산시작_UP.jpg" />
+    <None Include="Resources\BU_KO_생산시작_DN.jpg" />
+    <None Include="Resources\BU_KO_불량이력_UP.jpg" />
+    <None Include="Resources\BU_KO_불량이력_DN.jpg" />
+    <None Include="Resources\BU_KO_불량등록_UP.jpg" />
+    <None Include="Resources\BU_KO_불량등록_DN.jpg" />
+    <None Include="Resources\BU_KO_공지사항_UP.jpg" />
+    <None Include="Resources\BU_KO_공지사항_DN.jpg" />
+    <None Include="Resources\BU_KO_공정검사_UP.jpg" />
+    <None Include="Resources\BU_KO_공정검사_DN.jpg" />
+    <None Include="Resources\BU_KO_가동이력_UP.jpg" />
+    <None Include="Resources\BU_KO_가동이력_DN.jpg" />
+    <None Include="Resources\BU_KO_LOT발행_UP.jpg" />
+    <None Include="Resources\BU_KO_LOT발행_DN.jpg" />
+    <None Include="Resources\BU_EN_지시선택F_UP.jpg" />
+    <None Include="Resources\BU_EN_지시선택F_DN.jpg" />
+    <None Include="Resources\BU_EN_지시선택_UP.jpg" />
+    <None Include="Resources\BU_EN_지시선택_DN.jpg" />
+    <None Include="Resources\BU_EN_종료F_UP.jpg" />
+    <None Include="Resources\BU_EN_종료F_DN.jpg" />
+    <None Include="Resources\BU_EN_작업장선택F_UP.jpg" />
+    <None Include="Resources\BU_EN_작업장선택F_DN.jpg" />
+    <None Include="Resources\BU_EN_작업장선택_UP.jpg" />
+    <None Include="Resources\BU_EN_작업장선택_DN.jpg" />
+    <None Include="Resources\BU_EN_작업자선택F_UP.jpg" />
+    <None Include="Resources\BU_EN_작업자선택F_DN.jpg" />
+    <None Include="Resources\BU_EN_작업자선택_UP.jpg" />
+    <None Include="Resources\BU_EN_작업자선택_DN.jpg" />
+    <None Include="Resources\BU_EN_자주검사_UP.jpg" />
+    <None Include="Resources\BU_EN_자주검사_DN.jpg" />
+    <None Include="Resources\BU_EN_자재투입_UP.jpg" />
+    <None Include="Resources\BU_EN_자재투입_DN.jpg" />
+    <None Include="Resources\BU_EN_자재정보_UP.jpg" />
+    <None Include="Resources\BU_EN_자재정보_DN.jpg" />
+    <None Include="Resources\BU_EN_자재반납_UP.jpg" />
+    <None Include="Resources\BU_EN_자재반납_DN.jpg" />
+    <None Include="Resources\BU_EN_설비점검_UP.jpg" />
+    <None Include="Resources\BU_EN_설비점검_DN.jpg" />
+    <None Include="Resources\BU_EN_설비보전_UP.jpg" />
+    <None Include="Resources\BU_EN_설비보전_DS.jpg" />
+    <None Include="Resources\BU_EN_설비보전_DN.jpg" />
+    <None Include="Resources\BU_EN_설비보전_AL.jpg" />
+    <None Include="Resources\BU_EN_생산정지_UP.jpg" />
+    <None Include="Resources\BU_EN_생산정지_DN.jpg" />
+    <None Include="Resources\BU_EN_생산정보_UP.jpg" />
+    <None Include="Resources\BU_EN_생산정보_DN.jpg" />
+    <None Include="Resources\BU_EN_생산이력_UP.jpg" />
+    <None Include="Resources\BU_EN_생산이력_DN.jpg" />
+    <None Include="Resources\BU_EN_생산시작_UP.jpg" />
+    <None Include="Resources\BU_EN_생산시작_DN.jpg" />
+    <None Include="Resources\BU_EN_불량이력_UP.jpg" />
+    <None Include="Resources\BU_EN_불량이력_DN.jpg" />
+    <None Include="Resources\BU_EN_불량등록_UP.jpg" />
+    <None Include="Resources\BU_EN_불량등록_DN.jpg" />
+    <None Include="Resources\BU_EN_가동이력_UP.jpg" />
+    <None Include="Resources\BU_EN_가동이력_DN.jpg" />
+    <None Include="Resources\BU_EN_LOT발행_UP.jpg" />
+    <None Include="Resources\BU_EN_LOT발행_DN.jpg" />
+    <None Include="Resources\BU_DX0630_001.png" />
+    <None Include="Resources\BU_DX0000_005.png" />
+    <None Include="Resources\BU_DX0000_004.png" />
+    <None Include="Resources\BU_DS.jpg" />
+    <None Include="Resources\BU_Down_UP.png" />
+    <None Include="Resources\BU_Down_DN.png" />
+    <None Include="Resources\BU_CN_지시선택F_UP.jpg" />
+    <None Include="Resources\BU_CN_지시선택F_DN.jpg" />
+    <None Include="Resources\BU_CN_지시선택_UP.jpg" />
+    <None Include="Resources\BU_CN_지시선택_DN.jpg" />
+    <None Include="Resources\BU_CN_종료F_UP.jpg" />
+    <None Include="Resources\BU_CN_종료F_DN.jpg" />
+    <None Include="Resources\BU_CN_작업장선택F_UP.jpg" />
+    <None Include="Resources\BU_CN_작업장선택F_DN.jpg" />
+    <None Include="Resources\BU_CN_작업장선택_UP.jpg" />
+    <None Include="Resources\BU_CN_작업장선택_DN.jpg" />
+    <None Include="Resources\BU_CN_작업자선택F_UP.jpg" />
+    <None Include="Resources\BU_CN_작업자선택F_DN.jpg" />
+    <None Include="Resources\BU_CN_작업자선택_UP.jpg" />
+    <None Include="Resources\BU_CN_작업자선택_DN.jpg" />
+    <None Include="Resources\BU_CN_자주검사_UP.jpg" />
+    <None Include="Resources\BU_CN_자주검사_DN.jpg" />
+    <None Include="Resources\BU_CN_자재투입_UP.jpg" />
+    <None Include="Resources\BU_CN_자재투입_DN.jpg" />
+    <None Include="Resources\BU_CN_자재정보_UP.jpg" />
+    <None Include="Resources\BU_CN_자재정보_DN.jpg" />
+    <None Include="Resources\BU_CN_자재반납_UP.jpg" />
+    <None Include="Resources\BU_CN_자재반납_DN.jpg" />
+    <None Include="Resources\BU_CN_설비점검_UP.jpg" />
+    <None Include="Resources\BU_CN_설비점검_DN.jpg" />
+    <None Include="Resources\BU_CN_설비보전_UP.jpg" />
+    <None Include="Resources\BU_CN_설비보전_DS.jpg" />
+    <None Include="Resources\BU_CN_설비보전_DN.jpg" />
+    <None Include="Resources\BU_CN_설비보전_AL.jpg" />
+    <None Include="Resources\BU_CN_생산정지_UP.jpg" />
+    <None Include="Resources\BU_CN_생산정지_DN.jpg" />
+    <None Include="Resources\BU_CN_생산정보_UP.jpg" />
+    <None Include="Resources\BU_CN_생산정보_DN.jpg" />
+    <None Include="Resources\BU_CN_생산이력_UP.jpg" />
+    <None Include="Resources\BU_CN_생산이력_DN.jpg" />
+    <None Include="Resources\BU_CN_생산시작_UP.jpg" />
+    <None Include="Resources\BU_CN_생산시작_DN.jpg" />
+    <None Include="Resources\BU_CN_불량이력_UP.jpg" />
+    <None Include="Resources\BU_CN_불량이력_DN.jpg" />
+    <None Include="Resources\BU_CN_불량등록_UP.jpg" />
+    <None Include="Resources\BU_CN_불량등록_DN.jpg" />
+    <None Include="Resources\BU_CN_가동이력_UP.jpg" />
+    <None Include="Resources\BU_CN_가동이력_DN.jpg" />
+    <None Include="Resources\BU_CN_LOT발행_UP.jpg" />
+    <None Include="Resources\BU_CN_LOT발행_DN.jpg" />
+    <None Include="Resources\BU_Button_Main_UP.png" />
+    <None Include="Resources\BU_Button_Main_DS.png" />
+    <None Include="Resources\BU_Button_Main_DN.png" />
+    <None Include="Resources\BU_Button_Group_UP.png" />
+    <None Include="Resources\BU_Button_Group_DS.png" />
+    <None Include="Resources\BU_Button_Group_DN.png" />
+    <None Include="Resources\BU_Button_Conf_UP.png" />
+    <None Include="Resources\BU_Button_Conf_DS.png" />
+    <None Include="Resources\BU_Button_Conf_DN.png" />
+    <None Include="Resources\BU_BaseForm_011.png" />
+    <None Include="Resources\BU_BaseForm_010.png" />
+    <None Include="Resources\BU_BaseForm_009.png" />
+    <None Include="Resources\BU_BaseForm_008.png" />
+    <None Include="Resources\BU_BaseForm_007.png" />
+    <None Include="Resources\BU_BaseForm_006.png" />
+    <None Include="Resources\BU_BaseForm_005.png" />
+    <None Include="Resources\BU_BaseForm_004.png" />
+    <None Include="Resources\BU_BaseForm_003.png" />
+    <None Include="Resources\BU_BaseForm_002.png" />
+    <None Include="Resources\BU_BaseForm_001.jpg" />
+    <None Include="Resources\BL_ZZ0100_000.jpg" />
+    <None Include="Resources\BL_ZZ0030_001.png" />
+    <None Include="Resources\BL_ZZ0030_000.png" />
+    <None Include="Resources\BL_ZZ0021_002.png" />
+    <None Include="Resources\BL_ZZ0021_001.png" />
+    <None Include="Resources\BL_ZZ0021_000.png" />
+    <None Include="Resources\BL_ZZ0020_002.png" />
+    <None Include="Resources\BL_ZZ0020_001.png" />
+    <None Include="Resources\BL_ZZ0020_000.png" />
+    <None Include="Resources\BL_ZZ0010_002.png" />
+    <None Include="Resources\BL_ZZ0010_001.png" />
+    <None Include="Resources\BL_ZZ0010_000.png" />
+    <None Include="Resources\BL_ZZ0000_004.png" />
+    <None Include="Resources\BL_ZZ0000_003.png" />
+    <None Include="Resources\BL_ZZ0000_002.png" />
+    <None Include="Resources\BL_ZZ0000_001.png" />
+    <None Include="Resources\BL_ZZ0000_000.jpg" />
+    <None Include="Resources\BL_zDateUpdateUP_UP.jpg" />
+    <None Include="Resources\BL_zDateUpdateUP_DN.jpg" />
+    <None Include="Resources\BL_zDateUpdateDN_UP.jpg" />
+    <None Include="Resources\BL_zDateUpdateDN_DN.jpg" />
+    <None Include="Resources\BL_zDateControlUP_UP.jpg" />
+    <None Include="Resources\BL_zDateControlUP_DN.jpg" />
+    <None Include="Resources\BL_zDateControlDN_UP.jpg" />
+    <None Include="Resources\BL_zDateControlDN_DN.jpg" />
+    <None Include="Resources\BL_Up_UP.png" />
+    <None Include="Resources\BL_Up_DN.png" />
+    <None Include="Resources\BL_Right_UP.png" />
+    <None Include="Resources\BL_Right_DN.png" />
+    <None Include="Resources\BL_NumberForm_016.png" />
+    <None Include="Resources\BL_NumberForm_015.png" />
+    <None Include="Resources\BL_NumberForm_012.png" />
+    <None Include="Resources\BL_NumberForm_011.png" />
+    <None Include="Resources\BL_NumberForm_010.png" />
+    <None Include="Resources\BL_NumberForm_009.png" />
+    <None Include="Resources\BL_NumberForm_008.png" />
+    <None Include="Resources\BL_NumberForm_007.png" />
+    <None Include="Resources\BL_NumberForm_006.png" />
+    <None Include="Resources\BL_NumberForm_005.png" />
+    <None Include="Resources\BL_NumberForm_004.png" />
+    <None Include="Resources\BL_NumberForm_003.png" />
+    <None Include="Resources\BL_NumberForm_002.png" />
+    <None Include="Resources\BL_NumberForm_001.png" />
+    <None Include="Resources\BL_NumberForm_000.png" />
+    <None Include="Resources\BL_MessageForm_000.jpg" />
+    <None Include="Resources\BL_Left_UP.png" />
+    <None Include="Resources\BL_Left_DN.png" />
+    <None Include="Resources\BL_KO_지시선택F_UP.jpg" />
+    <None Include="Resources\BL_KO_지시선택F_DN.jpg" />
+    <None Include="Resources\BL_KO_지시선택_UP.jpg" />
+    <None Include="Resources\BL_KO_지시선택_DN.jpg" />
+    <None Include="Resources\BL_KO_종료F_UP.jpg" />
+    <None Include="Resources\BL_KO_종료F_DN.jpg" />
+    <None Include="Resources\BL_KO_작업장선택F_UP.jpg" />
+    <None Include="Resources\BL_KO_작업장선택F_DN.jpg" />
+    <None Include="Resources\BL_KO_작업장선택_UP.jpg" />
+    <None Include="Resources\BL_KO_작업장선택_DN.jpg" />
+    <None Include="Resources\BL_KO_작업자선택F_UP.jpg" />
+    <None Include="Resources\BL_KO_작업자선택F_DN.jpg" />
+    <None Include="Resources\BL_KO_작업자선택_UP.jpg" />
+    <None Include="Resources\BL_KO_작업자선택_DN.jpg" />
+    <None Include="Resources\BL_KO_자주검사_UP.jpg" />
+    <None Include="Resources\BL_KO_자주검사_DN.jpg" />
+    <None Include="Resources\BL_KO_자재투입_UP.jpg" />
+    <None Include="Resources\BL_KO_자재투입_DN.jpg" />
+    <None Include="Resources\BL_KO_자재정보_UP.jpg" />
+    <None Include="Resources\BL_KO_자재정보_DN.jpg" />
+    <None Include="Resources\BL_KO_자재반납_UP.jpg" />
+    <None Include="Resources\BL_KO_자재반납_DN.jpg" />
+    <None Include="Resources\BL_KO_육안검사_UP.jpg" />
+    <None Include="Resources\BL_KO_육안검사_DN.jpg" />
+    <None Include="Resources\BL_KO_실적등록_UP.jpg" />
+    <None Include="Resources\BL_KO_실적등록_DN.jpg" />
+    <None Include="Resources\BL_KO_설비점검_UP.jpg" />
+    <None Include="Resources\BL_KO_설비점검_DN.jpg" />
+    <None Include="Resources\BL_KO_설비보전_UP.jpg" />
+    <None Include="Resources\BL_KO_설비보전_DS.jpg" />
+    <None Include="Resources\BL_KO_설비보전_DN.jpg" />
+    <None Include="Resources\BL_KO_설비보전_AL.jpg" />
+    <None Include="Resources\BL_KO_생산차트_UP.jpg" />
+    <None Include="Resources\BL_KO_생산차트_DN.jpg" />
+    <None Include="Resources\BL_KO_생산정지_UP.jpg" />
+    <None Include="Resources\BL_KO_생산정지_DN.jpg" />
+    <None Include="Resources\BL_KO_생산정보_UP.jpg" />
+    <None Include="Resources\BL_KO_생산정보_DN.jpg" />
+    <None Include="Resources\BL_KO_생산이력_UP.jpg" />
+    <None Include="Resources\BL_KO_생산이력_DN.jpg" />
+    <None Include="Resources\BL_KO_생산시작_UP.jpg" />
+    <None Include="Resources\BL_KO_생산시작_DN.jpg" />
+    <None Include="Resources\BL_KO_불량이력_UP.jpg" />
+    <None Include="Resources\BL_KO_불량이력_DN.jpg" />
+    <None Include="Resources\BL_KO_불량등록_UP.jpg" />
+    <None Include="Resources\BL_KO_불량등록_DN.jpg" />
+    <None Include="Resources\BL_KO_공지사항_UP.jpg" />
+    <None Include="Resources\BL_KO_공지사항_DN.jpg" />
+    <None Include="Resources\BL_KO_공정검사_UP.jpg" />
+    <None Include="Resources\BL_KO_공정검사_DN.jpg" />
+    <None Include="Resources\BL_KO_가동이력_UP.jpg" />
+    <None Include="Resources\BL_KO_가동이력_DN.jpg" />
+    <None Include="Resources\BL_KO_LOT발행_UP.jpg" />
+    <None Include="Resources\BL_KO_LOT발행_DN.jpg" />
+    <None Include="Resources\BL_EN_지시선택F_UP.jpg" />
+    <None Include="Resources\BL_EN_지시선택F_DN.jpg" />
+    <None Include="Resources\BL_EN_지시선택_UP.jpg" />
+    <None Include="Resources\BL_EN_지시선택_DN.jpg" />
+    <None Include="Resources\BL_EN_종료F_UP.jpg" />
+    <None Include="Resources\BL_EN_종료F_DN.jpg" />
+    <None Include="Resources\BL_EN_작업장선택F_UP.jpg" />
+    <None Include="Resources\BL_EN_작업장선택F_DN.jpg" />
+    <None Include="Resources\BL_EN_작업장선택_UP.jpg" />
+    <None Include="Resources\BL_EN_작업장선택_DN.jpg" />
+    <None Include="Resources\BL_EN_작업자선택F_UP.jpg" />
+    <None Include="Resources\BL_EN_작업자선택F_DN.jpg" />
+    <None Include="Resources\BL_EN_작업자선택_UP.jpg" />
+    <None Include="Resources\BL_EN_작업자선택_DN.jpg" />
+    <None Include="Resources\BL_EN_자주검사_UP.jpg" />
+    <None Include="Resources\BL_EN_자주검사_DN.jpg" />
+    <None Include="Resources\BL_EN_자재투입_UP.jpg" />
+    <None Include="Resources\BL_EN_자재투입_DN.jpg" />
+    <None Include="Resources\BL_EN_자재정보_UP.jpg" />
+    <None Include="Resources\BL_EN_자재정보_DN.jpg" />
+    <None Include="Resources\BL_EN_자재반납_UP.jpg" />
+    <None Include="Resources\BL_EN_자재반납_DN.jpg" />
+    <None Include="Resources\BL_EN_설비점검_UP.jpg" />
+    <None Include="Resources\BL_EN_설비점검_DN.jpg" />
+    <None Include="Resources\BL_EN_설비보전_UP.jpg" />
+    <None Include="Resources\BL_EN_설비보전_DS.jpg" />
+    <None Include="Resources\BL_EN_설비보전_DN.jpg" />
+    <None Include="Resources\BL_EN_설비보전_AL.jpg" />
+    <None Include="Resources\BL_EN_생산정지_UP.jpg" />
+    <None Include="Resources\BL_EN_생산정지_DN.jpg" />
+    <None Include="Resources\BL_EN_생산정보_UP.jpg" />
+    <None Include="Resources\BL_EN_생산정보_DN.jpg" />
+    <None Include="Resources\BL_EN_생산이력_UP.jpg" />
+    <None Include="Resources\BL_EN_생산이력_DN.jpg" />
+    <None Include="Resources\BL_EN_생산시작_UP.jpg" />
+    <None Include="Resources\BL_EN_생산시작_DN.jpg" />
+    <None Include="Resources\BL_EN_불량이력_UP.jpg" />
+    <None Include="Resources\BL_EN_불량이력_DN.jpg" />
+    <None Include="Resources\BL_EN_불량등록_UP.jpg" />
+    <None Include="Resources\BL_EN_불량등록_DN.jpg" />
+    <None Include="Resources\BL_EN_가동이력_UP.jpg" />
+    <None Include="Resources\BL_EN_가동이력_DN.jpg" />
+    <None Include="Resources\BL_EN_LOT발행_UP.jpg" />
+    <None Include="Resources\BL_EN_LOT발행_DN.jpg" />
+    <None Include="Resources\BL_DX0630_001.png" />
+    <None Include="Resources\BL_DX0000_005.png" />
+    <None Include="Resources\BL_DX0000_004.png" />
+    <None Include="Resources\BL_DS.jpg" />
+    <None Include="Resources\BL_Down_UP.png" />
+    <None Include="Resources\BL_Down_DN.png" />
+    <None Include="Resources\BL_CN_지시선택F_UP.jpg" />
+    <None Include="Resources\BL_CN_지시선택F_DN.jpg" />
+    <None Include="Resources\BL_CN_지시선택_UP.jpg" />
+    <None Include="Resources\BL_CN_지시선택_DN.jpg" />
+    <None Include="Resources\BL_CN_종료F_UP.jpg" />
+    <None Include="Resources\BL_CN_종료F_DN.jpg" />
+    <None Include="Resources\BL_CN_작업장선택F_UP.jpg" />
+    <None Include="Resources\BL_CN_작업장선택F_DN.jpg" />
+    <None Include="Resources\BL_CN_작업장선택_UP.jpg" />
+    <None Include="Resources\BL_CN_작업장선택_DN.jpg" />
+    <None Include="Resources\BL_CN_작업자선택F_UP.jpg" />
+    <None Include="Resources\BL_CN_작업자선택F_DN.jpg" />
+    <None Include="Resources\BL_CN_작업자선택_UP.jpg" />
+    <None Include="Resources\BL_CN_작업자선택_DN.jpg" />
+    <None Include="Resources\BL_CN_자주검사_UP.jpg" />
+    <None Include="Resources\BL_CN_자주검사_DN.jpg" />
+    <None Include="Resources\BL_CN_자재투입_UP.jpg" />
+    <None Include="Resources\BL_CN_자재투입_DN.jpg" />
+    <None Include="Resources\BL_CN_자재정보_UP.jpg" />
+    <None Include="Resources\BL_CN_자재정보_DN.jpg" />
+    <None Include="Resources\BL_CN_자재반납_UP.jpg" />
+    <None Include="Resources\BL_CN_자재반납_DN.jpg" />
+    <None Include="Resources\BL_CN_설비점검_UP.jpg" />
+    <None Include="Resources\BL_CN_설비점검_DN.jpg" />
+    <None Include="Resources\BL_CN_설비보전_UP.jpg" />
+    <None Include="Resources\BL_CN_설비보전_DS.jpg" />
+    <None Include="Resources\BL_CN_설비보전_DN.jpg" />
+    <None Include="Resources\BL_CN_설비보전_AL.jpg" />
+    <None Include="Resources\BL_CN_생산정지_UP.jpg" />
+    <None Include="Resources\BL_CN_생산정지_DN.jpg" />
+    <None Include="Resources\BL_CN_생산정보_UP.jpg" />
+    <None Include="Resources\BL_CN_생산정보_DN.jpg" />
+    <None Include="Resources\BL_CN_생산이력_UP.jpg" />
+    <None Include="Resources\BL_CN_생산이력_DN.jpg" />
+    <None Include="Resources\BL_CN_생산시작_UP.jpg" />
+    <None Include="Resources\BL_CN_생산시작_DN.jpg" />
+    <None Include="Resources\BL_CN_불량이력_UP.jpg" />
+    <None Include="Resources\BL_CN_불량이력_DN.jpg" />
+    <None Include="Resources\BL_CN_불량등록_UP.jpg" />
+    <None Include="Resources\BL_CN_불량등록_DN.jpg" />
+    <None Include="Resources\BL_CN_가동이력_UP.jpg" />
+    <None Include="Resources\BL_CN_가동이력_DN.jpg" />
+    <None Include="Resources\BL_CN_LOT발행_UP.jpg" />
+    <None Include="Resources\BL_CN_LOT발행_DN.jpg" />
+    <None Include="Resources\BL_Button_Main_UP.png" />
+    <None Include="Resources\BL_Button_Main_DS.png" />
+    <None Include="Resources\BL_Button_Main_DN.png" />
+    <None Include="Resources\BL_Button_Group_UP.png" />
+    <None Include="Resources\BL_Button_Group_DS.png" />
+    <None Include="Resources\BL_Button_Group_DN.png" />
+    <None Include="Resources\BL_Button_Conf_UP.png" />
+    <None Include="Resources\BL_Button_Conf_DS.png" />
+    <None Include="Resources\BL_Button_Conf_DN.png" />
+    <None Include="Resources\BL_BaseForm_011.png" />
+    <None Include="Resources\BL_BaseForm_010.png" />
+    <None Include="Resources\BL_BaseForm_009.png" />
+    <None Include="Resources\BL_BaseForm_008.png" />
+    <None Include="Resources\BL_BaseForm_007.png" />
+    <None Include="Resources\BL_BaseForm_006.png" />
+    <None Include="Resources\BL_BaseForm_005.png" />
+    <None Include="Resources\BL_BaseForm_004.png" />
+    <None Include="Resources\BL_BaseForm_003.png" />
+    <None Include="Resources\BL_BaseForm_002.png" />
+    <None Include="Resources\BL_BaseForm_001.jpg" />
+    <None Include="Resources\BaseForm_013.gif" />
+    <None Include="Resources\BaseForm_012.gif" />
+    <None Include="Resources\A_Update_Btn_UP.png" />
+    <None Include="Resources\A_Update_Btn_DN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

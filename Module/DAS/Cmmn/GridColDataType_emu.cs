@@ -1,0 +1,36 @@
+namespace Cmmn
+{
+	public enum GridColDataType_emu
+	{
+		DateTime24,
+		DateTime,
+		YearMonthDay,
+		YearMonth,
+		Year,
+		VarChar,
+		Currency,
+		CurrencyNonNegative,
+		CurrencyPositive,
+		Double,
+		DoubleNonNegative,
+		DoublePositive,
+		Integer,
+		IntegerNonNegative,
+		IntegerPositive,
+		CheckBox,
+		Image,
+		Button,
+		Color,
+		Font,
+		TimeWithSpin,
+		Time24WithSpin,
+		URL,
+		TrackBar,
+		Phone,
+		HandPhone,
+		IPv4Address,
+		ProgressBar,
+		FormattedText,
+		Explain
+	}
+}
