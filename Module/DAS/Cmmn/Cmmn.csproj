@@ -224,7 +224,6 @@
     <EmbeddedResource Include="MessageForm.resx">
       <DependentUpon>MessageForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="StringForm.resx">
       <DependentUpon>StringForm.cs</DependentUpon>
     </EmbeddedResource>
