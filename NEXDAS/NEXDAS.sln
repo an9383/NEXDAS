@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEXDAS", "NEXDAS\NEXDAS.csproj", "{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cmmn", "..\Module\DAS\Cmmn\Cmmn.csproj", "{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		Description = Southern Branch, WIZCORE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Debug|Any CPU.Build.0 = Debug|x86
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Debug|x86.ActiveCfg = Debug|x86
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Debug|x86.Build.0 = Debug|x86
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Release|Any CPU.ActiveCfg = Release|x86
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Release|x86.ActiveCfg = Release|x86
+		{AE915AFC-AA6D-4946-8F85-4580DF0EFEAB}.Release|x86.Build.0 = Release|x86
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD1F3AEA-17AD-4C98-9814-C1987EEEC060}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7B0488-54DA-49FE-B38B-7771C024912F}
+	EndGlobalSection

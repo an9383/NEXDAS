@@ -1,0 +1,636 @@
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe.config
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csprojAssemblyReference.cache
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.ResolveComReference.cache
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0000.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0150.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0350.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0430.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0645.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0640.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0780.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0790.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0850.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1210.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1310.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1300.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0420.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0460.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0630.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8000.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1200.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0450.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0110.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1110.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1100.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0620.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0660.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0661.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9030.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9040.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1020.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1010.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1000.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0310.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9000.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9010.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9020.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0900.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0800.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0610.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0700.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0410.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0400.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0510.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0300.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0200.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0500.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0100.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0710.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0600.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.Properties.Resources.resources
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.GenerateResource.cache
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe.licenses
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CopyComplete
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe
+D:\Project\90.소스\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe.config
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\AxAcroPDFLib.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.AssemblyReference.cache
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0000.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0150.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0340.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0320.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0330.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0350.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0440.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0430.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0645.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0640.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0650.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0780.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0790.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0850.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1210.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1310.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1300.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0420.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0460.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0630.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8010.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8000.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1200.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0450.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0110.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1110.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1100.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0620.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0660.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0661.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9050.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9030.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9040.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1020.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1010.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1000.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0310.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9000.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9010.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9020.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0900.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0800.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0610.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0700.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0410.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0400.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0510.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0300.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0200.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0500.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0100.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0710.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0600.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.Properties.Resources.resources
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.GenerateResource.cache
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe.licenses
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CoreCompileInputs.cache
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CopyComplete
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.pdb
+C:\Users\an938\Dropbox\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0360.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe.config
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\AxAcroPDFLib.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.AssemblyReference.cache
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0000.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0150.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0360.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0340.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0320.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0330.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0350.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0440.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0430.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0645.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0640.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0650.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0780.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0790.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0850.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1210.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1310.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1300.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0420.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0460.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0630.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8010.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8000.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1200.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0450.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0110.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1110.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1100.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0620.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0660.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0661.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9050.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9030.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9040.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1020.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1010.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1000.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0310.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9000.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9010.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9020.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0900.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0800.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0610.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0700.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0410.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0400.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0510.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0300.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0200.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0500.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0100.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0710.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0600.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.Properties.Resources.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.GenerateResource.cache
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe.licenses
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CoreCompileInputs.cache
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CopyComplete
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.pdb
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0370.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0641.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0851.resources
+C:\Users\an938\안기선 Dropbox\안기선\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0642.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe.config
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\AxAcroPDFLib.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.AssemblyReference.cache
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0000.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0150.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0370.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0360.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0340.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0320.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0330.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0350.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0440.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0430.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0642.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0641.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0645.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0640.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0650.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0780.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0790.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0851.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0850.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1210.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1310.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1300.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0420.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0460.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0630.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8010.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8000.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1200.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0450.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0110.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1110.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1100.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0620.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0660.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0661.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9050.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9030.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9040.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1020.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1010.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1000.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0310.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9000.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9010.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9020.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0900.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0800.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0610.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0700.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0410.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0400.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0510.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0300.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0200.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0500.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0100.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0710.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0600.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.Properties.Resources.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.GenerateResource.cache
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe.licenses
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CoreCompileInputs.cache
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CopyComplete
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.pdb
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0860.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0905.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0643.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0644.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0639.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0646.resources
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\an938\OneDrive\문서\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0662.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe.config
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\AxAcroPDFLib.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.AssemblyReference.cache
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0000.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0150.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0370.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0360.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0340.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0320.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0330.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0350.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0440.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0430.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0639.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0646.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0644.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0643.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0642.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0641.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0645.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0640.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0650.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0662.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0780.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0790.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0860.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0851.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0850.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0905.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1210.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1310.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1300.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0420.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0460.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0630.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8010.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8000.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1200.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0450.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0110.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1110.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1100.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0620.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0660.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0661.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9050.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9030.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9040.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1020.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1010.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1000.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0310.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9000.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9010.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9020.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0900.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0800.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0610.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0700.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0410.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0400.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0510.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0300.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0200.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0500.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0100.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0710.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0600.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.Properties.Resources.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.GenerateResource.cache
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe.licenses
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CoreCompileInputs.cache
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CopyComplete
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.pdb
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0701.resources
+C:\Users\an9383\Documents\P1904\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0702.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.AssemblyReference.cache
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0000.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0150.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0370.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0360.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0340.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0320.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0330.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0350.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0440.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0430.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0639.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0646.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0644.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0643.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0642.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0641.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0645.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0640.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0650.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0662.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0702.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0701.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0780.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0790.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0860.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0851.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0850.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0905.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1210.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1310.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1300.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0420.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0460.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0630.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8010.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX8000.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1200.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0450.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0110.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1110.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1100.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0620.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0660.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0661.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9050.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9030.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9040.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1020.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1010.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX1000.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0310.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9000.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9010.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX9020.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0900.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0800.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0610.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0700.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0410.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0400.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0510.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0300.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0200.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0500.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0100.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0710.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.DX0600.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.Properties.Resources.resources
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.GenerateResource.cache
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.exe
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe.config
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.exe
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\NEXDAS.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\AxAcroPDFLib.dll
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.dll
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Cmmn.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.Reporting.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.CoreCompileInputs.cache
+D:\WorkSpace\PROJECT\P1904_0930\NEXDAS\NEXDAS\NEXDAS\obj\x86\Debug\NEXDAS.csproj.Up2Date
